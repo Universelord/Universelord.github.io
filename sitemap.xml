@@ -8,7 +8,16 @@
     <loc>/posts/article-1/</loc>
     <lastmod>2026-04-21T16:48:57+05:30</lastmod>
   </url><url>
+    <loc>/tags/foss/</loc>
+    <lastmod>2026-04-21T16:48:57+05:30</lastmod>
+  </url><url>
+    <loc>/tags/opensource/</loc>
+    <lastmod>2026-04-21T16:48:57+05:30</lastmod>
+  </url><url>
     <loc>/posts/</loc>
+    <lastmod>2026-04-21T16:48:57+05:30</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
     <lastmod>2026-04-21T16:48:57+05:30</lastmod>
   </url><url>
     <loc>/about/</loc>
@@ -21,7 +30,5 @@
     <lastmod>2026-04-20T23:00:06+05:30</lastmod>
   </url><url>
     <loc>/categories/</loc>
-  </url><url>
-    <loc>/tags/</loc>
   </url>
 </urlset>
