@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>/</loc>
+    <lastmod>2026-04-21T13:21:42+05:30</lastmod>
+  </url><url>
+    <loc>/about/</loc>
+    <lastmod>2026-04-21T13:21:42+05:30</lastmod>
+  </url><url>
+    <loc>/posts/firstblog/</loc>
+    <lastmod>2026-04-21T13:21:27+05:30</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2026-04-21T13:21:27+05:30</lastmod>
+  </url><url>
+    <loc>/videos/so-i-switched-to-linux-for-6-months-in-tamil/</loc>
+    <lastmod>2026-04-20T23:00:06+05:30</lastmod>
+  </url><url>
+    <loc>/videos/</loc>
+    <lastmod>2026-04-20T23:00:06+05:30</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/tags/</loc>
+  </url>
+</urlset>

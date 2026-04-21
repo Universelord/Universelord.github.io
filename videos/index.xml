@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Videos on SJ&#39;s World</title>
+    <link>/videos/</link>
+    <description>Recent content in Videos on SJ&#39;s World</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 20 Apr 2026 23:00:06 +0530</lastBuildDate>
+    <atom:link href="/videos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>So i Switched to linux!!, for 6 months (in Tamil)</title>
+      <link>/videos/so-i-switched-to-linux-for-6-months-in-tamil/</link>
+      <pubDate>Mon, 20 Apr 2026 23:00:06 +0530</pubDate>
+      <guid>/videos/so-i-switched-to-linux-for-6-months-in-tamil/</guid>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/jUKB-04FcSc?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;h1 id=&#34;so-the-plot&#34;&gt;So the plot&lt;/h1&gt;&#xA;&lt;p&gt;In this video i talked about my experience about linux.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
