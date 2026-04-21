@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Opensource on SJ&#39;s Website</title>
+    <link>/tags/opensource/</link>
+    <description>Recent content in Opensource on SJ&#39;s Website</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 21 Apr 2026 16:48:57 +0530</lastBuildDate>
+    <atom:link href="/tags/opensource/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Article 1</title>
+      <link>/posts/article-1/</link>
+      <pubDate>Tue, 21 Apr 2026 16:48:57 +0530</pubDate>
+      <guid>/posts/article-1/</guid>
+      <description>&lt;h1 id=&#34;this-is-a-article-that-i-submited-to-my-schools-magazien&#34;&gt;This is a Article that i submited to my school&amp;rsquo;s Magazien&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;what-is-open-source&#34;&gt;What Is Open Source?&lt;/h1&gt;&#xA;&lt;p&gt;Opensource software! You might have heard about it&#xA;in a youtube video or something like that. But what&#xA;is opensource?&#xA;Opensource is the philosophy of software where the&#xA;software is free to view, use, copy and redistribute.&#xA;Essentially opensource software are just like every&#xA;other piece of software, but unlike proprietary&#xA;software, you can essentially download the source&#xA;code and modify it to your needs and share or even&#xA;sell it without any issue.&#xA;So what is its importance you may wonder.&#xA;Opensource software is used in most of our&#xA;infrastructure and also parts of foss code is also used&#xA;to make proprietary software. You might be using&#xA;foss software like 7zip, vscode, chromium, etc.&#xA;There is a whole operating system that is opensource&#xA;like Gnu/Linux, FreeBSD, OpenBSD&#xA;Personally, I switched from Windows to Linux six&#xA;months ago. Since then, my experience has improved&#xA;significantly, and it has completely changed my&#xA;perspective on technology and how I interact with it.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
