@@ -6,8 +6,22 @@
     <description>Recent content in Tags on SJ&#39;s Website</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Apr 2026 16:48:57 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 09:24:33 +0530</lastBuildDate>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux</title>
+      <link>/tags/linux/</link>
+      <pubDate>Fri, 15 May 2026 09:24:33 +0530</pubDate>
+      <guid>/tags/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Switch to Linux</title>
+      <link>/tags/switch-to-linux/</link>
+      <pubDate>Fri, 15 May 2026 09:24:33 +0530</pubDate>
+      <guid>/tags/switch-to-linux/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Foss</title>
       <link>/tags/foss/</link>
