@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Video-Scripts on SJ&#39;s Website</title>
-    <link>/video-script/</link>
-    <description>Recent content in Video-Scripts on SJ&#39;s Website</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 27 May 2026 19:37:07 +0530</lastBuildDate>
-    <atom:link href="/video-script/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Switch to Linux EP:1</title>
-      <link>/video-script/switch-to-linux-ep1/</link>
-      <pubDate>Wed, 27 May 2026 19:37:07 +0530</pubDate>
-      <guid>/video-script/switch-to-linux-ep1/</guid>
-      <description>&lt;h1 id=&#34;for-youtube-ep-1&#34;&gt;For Youtube Ep: 1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;choosing-a-distro&#34;&gt;Choosing a distro&lt;/h2&gt;&#xA;&lt;p&gt;when choosing a distro there are 2&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Look for the correct Desktop Environment&lt;/li&gt;&#xA;&lt;li&gt;What Hardware you are going to install Linux to&lt;/li&gt;&#xA;&lt;li&gt;Check for the popularity of the distro&lt;/li&gt;&#xA;&lt;li&gt;Check for the Distro Release Cycle&lt;/li&gt;&#xA;&lt;li&gt;The unique features of the distro&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;1-look-for-the-correct-desktop-environment&#34;&gt;1. Look for the correct Desktop Environment:&lt;/h3&gt;&#xA;&lt;h4 id=&#34;what-is-a-desktop-environment&#34;&gt;What is a Desktop Environment?&lt;/h4&gt;&#xA;&lt;p&gt;A Desktop Environment is the Graphical User Interface Experience of a linux distro.&#xA;Essential it defines how the desktop works and how you will interact with your computer.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Switch to Linux EP:0</title>
-      <link>/video-script/switch-to-linux-ep0/</link>
-      <pubDate>Fri, 15 May 2026 09:24:33 +0530</pubDate>
-      <guid>/video-script/switch-to-linux-ep0/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;hr&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;these-are-notes-that-i-made-for-the-video&#34;&gt;These are Notes that i made for the video&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;hr&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;for-youtube-ep-0&#34;&gt;For Youtube Ep: 0&lt;/h1&gt;&#xA;&lt;h2 id=&#34;the-things-to-know-about-when-switching-to-linux&#34;&gt;The things to know about when switching to linux:&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Linux is for people who wana get back control&lt;/li&gt;&#xA;&lt;li&gt;Linux is not the same as windows, it has a different way of working&lt;/li&gt;&#xA;&lt;li&gt;Linux is not compatible with all the hardware&lt;/li&gt;&#xA;&lt;li&gt;Linux is not compatible with all software made for windows&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;1-linux-is-for-people-who-wana-get-back-control&#34;&gt;1. Linux is for people who wana get back control:&lt;/h3&gt;&#xA;&lt;p&gt;We use linux not becaue it is better than windows(even tho it kinda is) but it give back the control to the user (aka u and me).&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Video-Scripts on SJ&#39;s Website</title>
+		<link>/video-script/</link>
+		<description>Recent content in Video-Scripts on SJ&#39;s Website</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 27 May 2026 19:37:07 +0530</lastBuildDate>
+		
+			<atom:link href="/video-script/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Switch to Linux EP:1</title>
+				<link>/video-script/switch-to-linux-ep1/</link>
+				<pubDate>Wed, 27 May 2026 19:37:07 +0530</pubDate>
+				<guid>/video-script/switch-to-linux-ep1/</guid>
+				<description>&lt;h1 id=&#34;for-youtube-ep-1&#34;&gt;For Youtube Ep: 1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;choosing-a-distro&#34;&gt;Choosing a distro&lt;/h2&gt;&#xA;&lt;p&gt;when choosing a distro there are 2&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Look for the correct Desktop Environment&lt;/li&gt;&#xA;&lt;li&gt;What Hardware you are going to install Linux to&lt;/li&gt;&#xA;&lt;li&gt;Check for the popularity of the distro&lt;/li&gt;&#xA;&lt;li&gt;Check for the Distro Release Cycle&lt;/li&gt;&#xA;&lt;li&gt;The unique features of the distro&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;1-look-for-the-correct-desktop-environment&#34;&gt;1. Look for the correct Desktop Environment:&lt;/h3&gt;&#xA;&lt;h4 id=&#34;what-is-a-desktop-environment&#34;&gt;What is a Desktop Environment?&lt;/h4&gt;&#xA;&lt;p&gt;A Desktop Environment is the Graphical User Interface Experience of a linux distro.&#xA;Essential it defines how the desktop works and how you will interact with your computer.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Switch to Linux EP:0</title>
+				<link>/video-script/switch-to-linux-ep0/</link>
+				<pubDate>Fri, 15 May 2026 09:24:33 +0530</pubDate>
+				<guid>/video-script/switch-to-linux-ep0/</guid>
+				<description>&lt;hr&gt;&#xA;&lt;hr&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;these-are-notes-that-i-made-for-the-video&#34;&gt;These are Notes that i made for the video&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;hr&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;for-youtube-ep-0&#34;&gt;For Youtube Ep: 0&lt;/h1&gt;&#xA;&lt;h2 id=&#34;the-things-to-know-about-when-switching-to-linux&#34;&gt;The things to know about when switching to linux:&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Linux is for people who wana get back control&lt;/li&gt;&#xA;&lt;li&gt;Linux is not the same as windows, it has a different way of working&lt;/li&gt;&#xA;&lt;li&gt;Linux is not compatible with all the hardware&lt;/li&gt;&#xA;&lt;li&gt;Linux is not compatible with all software made for windows&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;1-linux-is-for-people-who-wana-get-back-control&#34;&gt;1. Linux is for people who wana get back control:&lt;/h3&gt;&#xA;&lt;p&gt;We use linux not becaue it is better than windows(even tho it kinda is) but it give back the control to the user (aka u and me).&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
