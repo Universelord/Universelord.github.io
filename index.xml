@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Wed, 27 May 2026 19:37:07 +0530</lastBuildDate>
+			<lastBuildDate>Sun, 28 Jun 2026 10:50:16 +0530</lastBuildDate>
 		
 			<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Indigo Os Announcement</title>
+				<link>/posts/indigo-os-announcement/</link>
+				<pubDate>Sun, 28 Jun 2026 10:50:16 +0530</pubDate>
+				<guid>/posts/indigo-os-announcement/</guid>
+				<description>&lt;h2 id=&#34;did-you-all-miss-me&#34;&gt;Did You All Miss me&lt;/h2&gt;&#xA;&lt;p&gt;So for like the past month or so I have been radio Silent right?&#xA;It is becaues I have been having some irl things I need to cross 😥,&lt;/p&gt;&#xA;&lt;p&gt;and also I have been making a project called &lt;a href=&#34;https://github.com/Indigo-OS/Indigo-OS&#34;&gt;Indigo Os&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-it&#34;&gt;What is it?&lt;/h2&gt;&#xA;&lt;p&gt;well it is a &lt;a href=&#34;https://universal-blue.org/&#34;&gt;Universal Blue&lt;/a&gt; based immutable linux distor for like computer labs in schools,&#xA;it focuses on languages like python and sql (mostly because thats what is in my school ncert and cbse syllabus).&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Switch to Linux EP:1</title>
 				<link>/posts/switch-to-linux-ep1/</link>

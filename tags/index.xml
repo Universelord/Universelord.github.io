@@ -10,13 +10,27 @@
 		
 		
 		
-			<lastBuildDate>Wed, 27 May 2026 19:37:07 +0530</lastBuildDate>
+			<lastBuildDate>Sun, 28 Jun 2026 10:50:16 +0530</lastBuildDate>
 		
 			<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
+				<title>Custom OS</title>
+				<link>/tags/custom-os/</link>
+				<pubDate>Sun, 28 Jun 2026 10:50:16 +0530</pubDate>
+				<guid>/tags/custom-os/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Indigo-OS</title>
+				<link>/tags/indigo-os/</link>
+				<pubDate>Sun, 28 Jun 2026 10:50:16 +0530</pubDate>
+				<guid>/tags/indigo-os/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Linux</title>
 				<link>/tags/linux/</link>
-				<pubDate>Wed, 27 May 2026 19:37:07 +0530</pubDate>
+				<pubDate>Sun, 28 Jun 2026 10:50:16 +0530</pubDate>
 				<guid>/tags/linux/</guid>
 				<description></description>
 			</item>
